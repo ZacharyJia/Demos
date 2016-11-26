@@ -3,7 +3,7 @@
 int main()
 {
 	//printf("Hello Git!!!\n");
-	//屁，你写的才是垃圾
+	printf("领导说要这样");
 
 	return 0;
 }
